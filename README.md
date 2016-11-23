@@ -55,4 +55,12 @@ Marckdown te permite hacer [enlaces a una página web](http://www.w3schools.com/
 
 
 En Marckdown también se pueden poner imágenes:
-![Imagen de MMordekaiser](http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_0.jpg 'Imagen de Mordekaiserr')
+![Imagen de Mordekaiser](http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_0.jpg 'Imagen de Mordekaiser')
+
+En Marckdown también se pueden crear tablas:
+
+
+| Personaje | Posición | Pasiva |
+|-----------|----------|--------|
+| Mordekaiser|  Top    | Escudo |
+| Velkoz    | Mid      | Daño Verdadero|
