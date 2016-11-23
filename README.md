@@ -51,5 +51,4 @@
     
     
     
-    
- Marckdown te permite hacer [enlaces a una página web](http://www.w3schools.com/),incluso sólo poniendo la URL: http://www.w3schools.com/
+Marckdown te permite hacer [enlaces a una página web](http://www.w3schools.com/),incluso sólo poniendo la URL: http://www.w3schools.com/
