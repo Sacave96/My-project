@@ -44,7 +44,7 @@
   
   1. Top
     * Mordekaiser
-    * GRaves
+    * Graves
     
-  2.Mid
+  2. Mid
     1. Velkoz
