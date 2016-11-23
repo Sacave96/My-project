@@ -52,3 +52,7 @@
     
     
 Marckdown te permite hacer [enlaces a una página web](http://www.w3schools.com/),incluso sólo poniendo la URL: http://www.w3schools.com/
+
+
+En Marckdown también se pueden poner imágenes:
+![Imagen de Mordekaiser](http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_0.jpg 'Imagen de Mordekaiser')
