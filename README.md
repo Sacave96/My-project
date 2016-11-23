@@ -43,7 +43,8 @@
   También listas anidadas
   
   1. Top
-    *Mordekaiser
-    *GRaves
+    * Mordekaiser
+    * GRaves
+    
   2.Mid
     1. Velkoz
